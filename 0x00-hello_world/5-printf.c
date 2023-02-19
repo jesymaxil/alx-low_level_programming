@@ -1,8 +1,8 @@
 #include <stdio.h>
 
-/* main:this is a success function
+/** main-this is a success function
  *
- *  return: 0 when it works
+ * return: 0 when it works
  */
 
 int main(void)
